@@ -1,0 +1,13 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "MyDevHubProj",
+  "namespace": "",
+  "sfdcLoginUrl": "https://becomingcta-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
+
